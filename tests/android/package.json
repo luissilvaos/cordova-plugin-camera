@@ -1,0 +1,13 @@
+{
+    "name": "cordova-plugin-camera-test-android",
+    "version": "1.0.0",
+    "description": "Android Unit Tests for Camera Plugin",
+    "author": "Apache Software Foundation",
+    "license": "Apache Version 2.0",
+    "dependencies": {
+        "cordova-android": "https://github.com/apache/cordova-android.git"
+    },
+    "scripts": {
+        "test": "gradlew test"
+    }
+}
