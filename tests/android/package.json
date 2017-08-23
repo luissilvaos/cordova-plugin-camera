@@ -8,6 +8,6 @@
         "cordova-android": "https://github.com/apache/cordova-android.git"
     },
     "scripts": {
-        "test": "gradlew test"
+        "test": "cd CDVCameraTest && ./gradlew test"
     }
 }
